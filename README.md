@@ -1,23 +1,5 @@
 # Note Taker
-<h1 align="center">Team Profile Generator</h1>
-   
-  
-<p align="center">
-    <img src="https://img.shields.io/github/repo-size/BlakeGeo/Note-Taker" />
-    <img src="https://img.shields.io/github/languages/top/BlakeGeo/Note-Taker"  />
-    <img src="https://img.shields.io/github/issues/BlakeGeo/Note-Taker" />
-    <img src="https://img.shields.io/github/last-commit/BlakeGeo/Note-Taker" >
-</p>
-  
-<p align="center">
-    <img src="https://img.shields.io/badge/Javascript-yellow" />
-    <img src="https://img.shields.io/badge/VisualStudioCode-blue"  />
-    <img src="https://img.shields.io/badge/-node.js-green" />
-    <img src="https://img.shields.io/badge/-express-red" >
-    <img src="https://img.shields.io/badge/-uuid-orange" />
-    <img src="https://img.shields.io/badge/-shield.io-brightgreen" />
 
-</p>
 ## Description
 
 > An application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. You are presented with a landing page and an input page.
